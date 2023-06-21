@@ -14,11 +14,11 @@ export function Navbar() {
     <div className={styles.navContainer}>
       <nav className={styles.nav}>
         <div className={styles.navSection}> {/* Center section */}
-          <Link href="http://atereta.online">
+          <Link href="http://fcdm.online">
             <Image
               src="/logo.png"
-              width={50}
-              height={50}
+              width={70}
+              height={70}
               alt="NFT marketplace sample logo"
             />
           </Link>

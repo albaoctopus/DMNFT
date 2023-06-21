@@ -11,8 +11,8 @@ export default function Home() {
 
   return (
     <Container maxWidth="lg">
-      <h1>Говори Красиво о ...</h1>
-      <p>Выбери слова, что отражают Тебя!</p>
+      <h1>ВЕК ТРИУМФА!</h1>
+      <p>СОЗДАЙ СВОЕ НАСЛЕДИЕ!</p>
       <NFTGrid
         data={data}
         isLoading={isLoading}
